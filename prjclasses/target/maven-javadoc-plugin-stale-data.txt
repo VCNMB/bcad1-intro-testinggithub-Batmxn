@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+21
+-sourcepath
+'C:/Users/lab_services_student/Documents/NetBeansProjects/prjclasses/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/lab_services_student/Documents/NetBeansProjects/prjclasses/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'prjclasses 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'prjclasses 1.0-SNAPSHOT API'
+com.mycompany.prjclasses
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\src\main\java = 1741079871262
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\allclasses-index.html = 1741080013249
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\allpackages-index.html = 1741080013256
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\copy.svg = 1741080013349
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\element-list = 1741080013115
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\help-doc.html = 1741080013334
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\index-all.html = 1741080013295
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\index.html = 1741080013310
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\link.svg = 1741080013356
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\member-search-index.js = 1741080013272
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\module-search-index.js = 1741080013266
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\overview-tree.html = 1741080013225
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\package-search-index.js = 1741080013268
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\script.js = 1741080013347
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\search-page.js = 1741080013410
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\search.html = 1741080013306
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\search.js = 1741080013403
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\stylesheet.css = 1741080013341
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\tag-search-index.js = 1741080013273
+C:\Users\lab_services_student\Documents\NetBeansProjects\prjclasses\target\reports\apidocs\type-search-index.js = 1741080013270
